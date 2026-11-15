@@ -65,3 +65,6 @@ Never commit API keys, `.env` files, or Streamlit secrets to GitHub. Use environ
 Any sample companies, sources, counts, and briefing history shown in the prototype are illustrative placeholders, not real research.
 # MeetMind-AI
 An AI-powered meeting research agent that delivers real-time insights, company intelligence, and smart briefings to help you prepare for every meeting.
+
+Demo video:
+https://canva.link/y63fbp14qydm1ly
