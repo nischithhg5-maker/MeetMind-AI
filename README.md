@@ -68,3 +68,6 @@ An AI-powered meeting research agent that delivers real-time insights, company i
 
 Demo video:
 https://canva.link/y63fbp14qydm1ly
+
+Streamlit link:
+https://meetmind-ai-qbzjtdeumruokxrvqhcnwc.streamlit.app
